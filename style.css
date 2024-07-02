@@ -123,6 +123,7 @@ summary:hover {
 	width: 50%;
 	font-size: 10px;
 	background: #ffffff;
+	text-align: center;
     }
     li {
         display: block;
