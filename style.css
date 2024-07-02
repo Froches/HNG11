@@ -126,13 +126,9 @@ summary:hover {
         padding: 1em;
     }
     summary {
-    width: 97.8%;
-    height: fit-content;
-    background-color: #bae8e8;
-    padding: 1em;
-    border-radius: 8px;
-    margin-left: 1em;
-    margin-right: 2em;
+    width: 95%;
+    margin: 0;
+    padding: 0;
 }
 }
 @media (min-width: 421px) {
