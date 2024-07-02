@@ -86,7 +86,7 @@ summary:hover {
 .summary_content {
     margin: 1em 6em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: center;
+    text-align: left;
 }
 #steps {
     width: 100%;
@@ -122,10 +122,9 @@ summary:hover {
     }
     .summary_content {
 	height: fit-content;
-	width: 50%;
-	font-size: 10px;
+	font-size: 15px;
 	background: #ffffff;
-	text-align: center;
+	text-align: left;
     }
     li {
         display: block;
