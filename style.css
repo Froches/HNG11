@@ -124,9 +124,8 @@ summary:hover {
     .summary_content {
 	height: fit-content;
 	font-size: 20px;
-	width: 100%;
-	/* background: #ffffff;*/
 	text-align: left;
+	padding: 1em;
     }
     li {
         display: block;
