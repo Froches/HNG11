@@ -114,6 +114,9 @@ summary:hover {
     nav {
         padding: 1em;
     }
+    .summary_content {
+	height: fit-content;
+    }
     li {
         display: block;
         margin: 1em;
