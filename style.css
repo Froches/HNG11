@@ -46,17 +46,9 @@ h2 {
 .intro {
   display: flex;
   flex-direction: row;
-}
-
-.info {
-    margin-top: 10em;
-}
-
-.profile-pic {
-  display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 5em;
+  margin: 3em;
 }
 
 p {
@@ -64,15 +56,20 @@ p {
   margin: 1em 6em;
 }
 #plans {
-  width: 100%;
+  width: 90%;
   height: 100vh;
   overflow: scroll;
+  margin: auto;
 }
 blockquote {
   text-align: center;
   background: #ffffff;
   padding: 2em;
-  border-radius: 8px;
+  border-radius: 10px;
+  margin: auto;
+  margin-bottom: 1em;
+  width: 50%;
+  box-shadow: 3px 3px #ababab;
 }
 
 details {
@@ -81,7 +78,7 @@ details {
 }
 
 summary {
-  width: 97.8%;
+  width: 90%;
   background-color: #bae8e8;
   padding: 1em;
   border-radius: 8px;
@@ -94,7 +91,7 @@ summary:hover {
 }
 
 .summary_content {
-  margin: 1em 6em;
+  margin: 1em auto;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: left;
